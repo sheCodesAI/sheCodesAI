@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on AI Engineering projects, focusing on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and MLOps.<br><br>I’m looking to collaborate on open-source AI projects, intelligent automation, and generative AI applications.<br><br>I’m looking for help with distributed model training, LLM optimization, and production-scale AI systems.<br><br>I’m currently learning advanced LLM architectures, Agentic AI, multimodal AI, vector databases, and cloud-native AI deployment.<br><br>Ask me about Python, Machine Learning, Deep Learning, Generative AI, LLMs, LangChain, Hugging Face, PyTorch, TensorFlow, and MLOps.
 
 
